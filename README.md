@@ -5,7 +5,7 @@ This is my submission for **Frontend Battle - Round 1** challenge (June 19, 2025
 
 ## 🌐 Live Demo
 
-[Click here to view the deployed site](https://your-live-url.netlify.app)
+[Click here to view the deployed site](https://68540f2070bccbe6c9a00243--frontend-battle-parth.netlify.app/)
 
 ---
 
